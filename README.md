@@ -3,17 +3,17 @@
 This document is made by [gitfab](http://gitfab.org)
 ---
 #Target
-Elementary School (6-12)
+Junior High School (16-19)
 
 
-![IMG_2918.JPG](https://raw.github.com/dadaa/classrecipe-template/master/gitfab/resources/IMG_2918.JPG)
+![IMG_2918.JPG](http://www.brain-feed.com/wp-content/uploads/2013/03/anak-sma.jpg)
 ---
 #Scale
 1 classroom (~30)
 
 ---
 #Overall
-In this activity, students make a introduction movie about their own country, and presentation for others.
+In this activity, student writting their model of salt, then student observe their model through experiment, student revise and reflection their model and explain their model
 
 
 ---
@@ -22,7 +22,7 @@ In this activity, students make a introduction movie about their own country, an
 
 skill
 
-* Presentation Skill
+* high thinking level
 * deep Knowledge for own country
 
 ---
@@ -30,4 +30,5 @@ skill
 * PC *Installed latest [Firefox](http://www.mozilla.org/en-US/firefox/)
 * Popcorn Maker
 * Screen for presentation
+high thinking level
 ---
